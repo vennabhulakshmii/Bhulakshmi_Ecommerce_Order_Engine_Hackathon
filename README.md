@@ -5,7 +5,11 @@ This project is a CLI-based Ecommerce Order Engine developed in Java.
 It simulates real-world e-commerce operations such as product management, cart handling, order processing, and system reliability features like failure handling and fraud detection.
 
 ---
-
+## 🧰 Tech Stack
+- Java
+- Collections Framework
+- CLI (Command Line Interface)
+  
 ## ⚙️ Features Implemented
 
 ### 🛍️ Core Features
