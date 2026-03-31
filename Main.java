@@ -35,7 +35,7 @@ class Main {
                 case 7: viewOrders(); break;
                 case 8: lowStockAlert(); break;
                 case 9: simulateFailure(); break;
-                case 10: return;
+                case 10: System.out.println("Thank you for using ECOMMERCE ORDER ENGINE");  return;
                 default: System.out.println("Invalid Choice");
             }
         }
