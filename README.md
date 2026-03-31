@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Order Engine Hackathon
+# 🛒 Ecommerce Order Engine (Java CLI Project)
 
 ## 📌 Project Overview
 This project is a CLI-based Ecommerce Order Engine developed in Java.  
